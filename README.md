@@ -21,8 +21,8 @@ Usage Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/pranav-ti/cybersecurity-tools.git
-   cd cybersecurity-tools
+   git clone https://github.com/pranav-ti/info_gathering_vuln_scanner.git
+   cd info_gathering_vuln_scanner
 
 2. **Install dependencies**:
    Before running the tools, install the required Python libraries by running:
@@ -31,6 +31,6 @@ Usage Instructions
 
 3. Run the tool: To start using the tool, run:
    ```bash
-   python3 cybersecurity-tools/info-gathering-vuln-scanner/main.py
+   python3 main.py
 
-Follow the on-screen prompts to choose between information gathering, vulnerability scanning, or     both.
+Follow the on-screen prompts to choose between information gathering, vulnerability scanning, or both.
